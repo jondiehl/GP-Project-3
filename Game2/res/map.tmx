@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="45" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="DBZ" tilewidth="32" tileheight="32">
+  <image source="Tiles0.png" width="448" height="2272"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="60" height="45">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3VyRWDMAwEUHdAxfSeDniWZ9EIctAt8egLYa611jWobrBUvXzNu3P2SQ8sL2MejtmrvRUz2ktlJ5DzkR4YxjTvUx9uL5pZ+X+KV5G720+H1WlW5la9nfvWYXPM4/ScLt/fq/d2G0/N1XNYv51ek3ahc5fS7/7TfhmF9PRWr3pPnN7qfakwp3hV70aiV/l+fN2bcGe5vS43Oxf1Ks2sXIZRaWZkMw1Kt+JZMJ5X8q4p9tI1twQrwzzJmdK3yzjJy3J2mtXfCKcXzVRbWWZW3gQvM8/lPTErshK9yqw0rzoryevKSrA6vWp/Ry7yPUD665qzwtsxv936AXfBPL4wKgAA
+  </data>
+ </layer>
+</map>
